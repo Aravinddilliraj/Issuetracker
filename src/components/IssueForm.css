@@ -1,0 +1,25 @@
+.issueContainer{
+    height: 100vh;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    /* background-color: #5050d3; */
+    background: linear-gradient(to right, #3537b2, #2dc7fa, #75d4f3);
+    /* background-image: linear-gradient(to right, #90c4ee, #90c4ee,#b9dbf7); */
+}
+.issueFirstPage{
+    width: 60%;
+    margin-right: 50px;
+   /* border: 2px solid black; */
+   box-shadow: 0px 0px 8px rgba(0,0,0,0.8);
+   padding: 15px 70px ;
+   border-radius: 120px 10px 10px 120px;
+   background-color:white;
+   
+}
+.fonts{
+  margin-right: 100px;
+  font-size: 50px;
+   padding-bottom: 250px;
+   color: white;
+}
